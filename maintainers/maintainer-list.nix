@@ -141,6 +141,13 @@
     github = "0xd61";
     githubId = 8351869;
   };
+  _0xeae3f7c0 = {
+    email = "0xeae3f7c0@proton.me";
+    name = "0xeae3f7c0";
+    github = "0xeae3f7c0";
+    githubId = 225905311;
+    keys = [ { fingerprint = "B5B2 7CE1 50B9 6D6B D846  AA04 FEFC 3BEA F58A 802A"; } ];
+  };
   _0xMRTT = {
     email = "0xMRTT@proton.me";
     name = "0xMRTT";
